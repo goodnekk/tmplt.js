@@ -1,5 +1,5 @@
 # tmplt.js
-Super lightweight client-side templating engine that separates model and view.
+Super lightweight client-side template engine that separates model and view.
 
 ## How to use:
 1) Create some html and link it to the model using the `tmplt` property.
